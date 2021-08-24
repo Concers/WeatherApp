@@ -1,5 +1,5 @@
 # WeatherApp
-Weather App For Learning 
+
 
 Basic Android Project 
 
