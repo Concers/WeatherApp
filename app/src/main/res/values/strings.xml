@@ -5,8 +5,11 @@
     <string name="degree1">23°</string>
     <string name="degree2">20°</string>
     <string name="degree3">19°</string>
-    <string name="sun_message">feel the sun</string>
+    <string name="sun_message">Sunny\nDay\nWalk</string>
+
     <string name="date_april1">Tue,Apr 14</string>
     <string name="date_april2">Tue,Apr 15</string>
     <string name="date_april3">Tue,Apr 16</string>
+    <string name="txt_activity_city">Istanbul</string>
+    <string name="istanbul">Istanbul</string>
 </resources>
